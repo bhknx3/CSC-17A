@@ -8,7 +8,7 @@ Game instructions and information can be found [here](https://bicyclecards.com/h
 ## Purpose
 Mini project to practice and demonstrate C++ concepts such as:
 
-STL Library usage (containers, algorithms, iterators), Recursions, Sorts, Hash tables, Trees, etc.
+Classes, Abstract Classes, Inheritance, Exceptions, Templates, Operator overloading, etc.
 
 ## Screenshots
 ![Example input](https://github.com/bhknx3/CSC-17A/blob/master/Projects/img/example1.png)
@@ -16,4 +16,4 @@ STL Library usage (containers, algorithms, iterators), Recursions, Sorts, Hash t
 ![Example output](https://github.com/bhknx3/CSC-17A/blob/master/Projects/img/example2.png)
 
 ## Project/Files Info
-Project files were run on NetBeans IDE.
+Project files were made & run on NetBeans IDE.
